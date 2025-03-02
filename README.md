@@ -1,4 +1,4 @@
-## Hyper
+## Hyperbolic Graph Contrastive Learning for Collaborative Filtering
 
 This is the Pytorch implementation for our TKDE 2025 paper:
 
