@@ -1,7 +1,6 @@
 ## Hyperbolic Graph Contrastive Learning for Collaborative Filtering
-
+Hyperbolic Graph Contrastive Learning for Collaborative Filtering
 This is the Pytorch implementation for our TKDE 2025 paper:
-
 TKDE 2025. Zhida Qin , Wentao Cheng , Wenxing Ding , Gangyi Ding. Hyperbolic Graph Contrastive Learning for Collaborative Filtering
 
 ## Introduction
